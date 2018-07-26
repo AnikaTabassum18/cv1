@@ -1,0 +1,57 @@
+.bg-black{
+background-color:black;
+}
+img{
+width:100%;
+height:100%;
+}
+.font-div{
+width:30%;
+}
+@media only screen and (mid-width:1160px){
+.font-div{
+padding:50px ;
+
+}
+}
+/*
+<div class="container">
+	<div class="collapse" id="graduation">
+      	<div class="p-5 text-white bg-secondary">
+            <h2>Education</h2>
+            <p></p>
+            </div>
+            <div class ="card card-body">
+            <h2> Academic Profile</h2>
+            <p></p>
+            
+            <div class=" card-deck  text-center">
+            <div class="card">
+            <div class ="card-header text-uppercase font-weight-bold">B.Sc in CSE</div>
+            <div class="card-body">
+            <p class="md-4"></p>
+            <p class="bg-dark text-white p-2">CGPA : 3.71/4.00(Ongoing)</p>
+            
+            <p class="bg-dark text-white p-2">Eastern University , Dhaka</p>
+            
+            </div>
+            <div class="card-footer">Date:17/7/2018</div>
+            </div>
+            
+              <div class="card">
+            <div class ="card-header text-uppercase font-weight-bold">HSC</div>
+            <div class="card-body">
+            <p class="md-4"></p>
+            <p class="bg-dark text-white p-2">3.9</p>
+            
+            <p class="bg-dark text-white p-2">B.A Green Heart College , Mripur</p>
+            
+            </div>
+            <div class="card-footer">Date:17/7/2018 </div>
+            </div>
+		
+<div class="container">
+<footer class="p-5 bg-black text-center">
+<button class="btn"><i class="fa fa-download fa-2x "></i> Download</button>
+</footer>
+</div>
